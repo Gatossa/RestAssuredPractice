@@ -1,0 +1,11 @@
+verifycode.class
+getpostwithParametrs.class
+GetSpecificPostTest.class
+Post.class
+getPostTest.class
+AddNewPostTest.class
+PatchMethod.class
+FilterPosts.class
+GET\JiraGetIssue.class
+UpdatePost.class
+VerifyBody.class

@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "author": "update  zbez nulla author",
+      "id": 2
+    },
+    {
+      "title": "update tytul to samo",
+      "author": "patch wlasciwy",
+      "id": 3
+    },
+    {
+      "title": "nextpost",
+      "author": "Ala",
+      "id": 4
+    },
+    {
+      "title": "pierwszy post z pliku",
+      "author": "Tomek",
+      "id": 5
+    },
+    {
+      "author": "Daria",
+      "title": "Tytuł z mapy",
+      "id": 6
+    },
+    {
+      "title": "Tytuł obiekt",
+      "author": "Author obiekt",
+      "id": 7
+    },
+    {
+      "title": "Tytuł  next obiekt",
+      "author": "Author next obiekt",
+      "id": 8
+    },
+    {
+      "title": null,
+      "author": "Author next obiekt",
+      "id": 9
+    },
+    {
+      "title": "Tytuł  next obiekt",
+      "author": null,
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "sesond comment",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
