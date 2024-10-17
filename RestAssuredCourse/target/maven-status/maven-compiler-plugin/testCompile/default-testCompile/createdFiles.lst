@@ -1,0 +1,6 @@
+Config\VideoGameConfig.class
+Config\VideoGameEndpoints.class
+VideoGameTest.class
+VideoGamesRequestTypes.class
+Config\TestConfig.class
+MyFirstTest.class
